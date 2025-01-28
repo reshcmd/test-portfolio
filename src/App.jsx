@@ -2,6 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
+import { Analytics } from '@vercel/analytics/react';
 
 function App() {
   const [count, setCount] = useState(0)
@@ -19,11 +20,12 @@ function App() {
       <div className="card">
       </div>
       <p className="read-the-docs">
-        Please wait patiently, the website is being deployed ...
+        Please wait patiently, the website is being deployedd ...
       </p>
       <p className='mt-8 text-center text-sm tracking-wide text-gray-400'> 
         &copy; saabiresh. all rights reserved.
       </p>
+      <Analytics />
     </>
   )
 }
