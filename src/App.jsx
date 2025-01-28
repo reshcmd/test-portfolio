@@ -19,7 +19,8 @@ function App() {
       <div className="card">
       </div>
       <p className="read-the-docs">
-        Please wait patiently, the website is being deployedd ...
+        Please wait patiently, the website is being deployed on March
+         ...
       </p>
       <p className='mt-8 text-center text-sm tracking-wide text-gray-400'> 
         &copy; saabiresh. all rights reserved.
