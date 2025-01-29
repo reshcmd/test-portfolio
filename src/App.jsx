@@ -19,8 +19,7 @@ function App() {
       <div className="card">
       </div>
       <p className="read-the-docs">
-        Please wait patiently, the website is being deployed on March
-         ...
+        Please wait, the website is still under development process ...
       </p>
       <p className='mt-8 text-center text-sm tracking-wide text-gray-400'> 
         &copy; saabiresh. all rights reserved.
