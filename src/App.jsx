@@ -21,6 +21,9 @@ function App() {
       <p className="read-the-docs">
         Please wait, the website is still under development process ...
       </p>
+      <p className='read-the-docs'>
+        Date: TBA
+      </p>
       <p className='mt-8 text-center text-sm tracking-wide text-gray-400'> 
         &copy; saabiresh. all rights reserved.
       </p>
